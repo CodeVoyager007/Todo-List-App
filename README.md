@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📝 Todo List Application
 
-## Getting Started
+Welcome to the **Todo List** application! This is a simple and interactive todo list built using React and TypeScript. It allows users to manage their tasks effectively, set due dates, and mark tasks as completed.
 
-First, run the development server:
+## 🚀 Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Add Tasks**: Easily add new tasks with a due date.
+- **Edit Tasks**: Update the text of existing tasks.
+- **Delete Tasks**: Remove tasks that are no longer needed.
+- **Checkbox for Completion**: Mark tasks as completed.
+- **Persistent Storage**: Your tasks are saved in the browser's local storage.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📦 Installation
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/CodeVoyager007/Todo-List-App.git
+   ```
+   
+2. Navigate to the project directory:
+   ```bash
+   cd todo-list
+   ```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
 
-## Learn More
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+5. Open your browser and visit `http://localhost:3000`.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎨 Styling
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This application is styled using custom CSS and includes hover effects for an enhanced user experience. The cards expand slightly when hovered over, and their border color changes, giving a nice visual cue.
 
-## Deploy on Vercel
+## 🧑‍💻 Contributing
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🤝 Author
+
+Made with ♥ by **Ayesha Mughal**
+
+
